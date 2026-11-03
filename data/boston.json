@@ -1,0 +1,116 @@
+{
+  "collection": "BOSTON",
+  "cate_no": 102,
+  "url": "https://cueren.com/product/project.html?cate_no=102&type=BOSTON",
+  "total_products": 9,
+  "products": [
+    {
+      "product_name": "BOSTON 01 DERBY",
+      "model": "BOSTON 01",
+      "model_number": "01",
+      "price": "228,000원",
+      "product_id": 1778,
+      "url": "https://cueren.com/product/boston-01-derby/1778/category/102/display/1/",
+      "image_url": "//cueren.com/web/product/small/202409/8a690d883b4c116f45cc0fa741f57e38.jpg",
+      "sold_out": true,
+      "section": "MEN",
+      "color": "CRBK"
+    },
+    {
+      "product_name": "BOSTON 01 DERBY",
+      "model": "BOSTON 01",
+      "model_number": "01",
+      "price": "228,000원",
+      "product_id": 1779,
+      "url": "https://cueren.com/product/boston-01-derby/1779/category/102/display/1/",
+      "image_url": "//cueren.com/web/product/small/202401/e1389453db5d7278427edde2eca8925d.jpg",
+      "sold_out": true,
+      "section": "MEN",
+      "color": "BRUSH OFF BRANDY"
+    },
+    {
+      "product_name": "BOSTON 10 ENGLISH MOC",
+      "model": "BOSTON 10",
+      "model_number": "10",
+      "price": "238,000원",
+      "product_id": 1762,
+      "url": "https://cueren.com/product/boston-10-english-moc/1762/category/102/display/1/",
+      "image_url": "//cueren.com/web/product/small/202409/6c3c6abe4acaf503fca75d22269d4673.jpg",
+      "sold_out": false,
+      "section": "MEN",
+      "color": "BLACK"
+    },
+    {
+      "product_name": "BOSTON 10 ENGLISH MOC",
+      "model": "BOSTON 10",
+      "model_number": "10",
+      "price": "238,000원",
+      "product_id": 1761,
+      "url": "https://cueren.com/product/boston-10-english-moc/1761/category/102/display/1/",
+      "image_url": "//cueren.com/web/product/small/202401/5c5176f21b7c195609c0e1d0003724bc.jpg",
+      "sold_out": false,
+      "section": "MEN",
+      "color": "ESPRESSO"
+    },
+    {
+      "product_name": "BOSTON 11 LOAFER",
+      "model": "BOSTON 11",
+      "model_number": "11",
+      "price": "238,000원",
+      "product_id": 1759,
+      "url": "https://cueren.com/product/boston-11-loafer/1759/category/102/display/1/",
+      "image_url": "//cueren.com/web/product/small/202604/ea8fb37296786307ac1bbdce7caf6b0d.jpg",
+      "sold_out": false,
+      "section": "MEN",
+      "color": "BLACK"
+    },
+    {
+      "product_name": "BOSTON 11 LOAFER",
+      "model": "BOSTON 11",
+      "model_number": "11",
+      "price": "238,000원",
+      "product_id": 1760,
+      "url": "https://cueren.com/product/boston-11-loafer/1760/category/102/display/1/",
+      "image_url": "//cueren.com/web/product/small/202507/976b4292632eaf3aa0f8e704199044a3.jpg",
+      "sold_out": false,
+      "section": "MEN",
+      "color": "BRUSH OFF WINE"
+    },
+    {
+      "product_name": "BOSTON 11 LOAFER",
+      "model": "BOSTON 11",
+      "model_number": "11",
+      "price": "248,000원",
+      "product_id": 1757,
+      "url": "https://cueren.com/product/boston-11-loafer/1757/category/102/display/1/",
+      "image_url": "//cueren.com/web/product/small/202401/e44b4ab9c3da4f5d57c4793daf19c165.jpg",
+      "sold_out": false,
+      "section": "MEN",
+      "color": "CHARCOAL"
+    },
+    {
+      "product_name": "BOSTON 11 LOAFER",
+      "model": "BOSTON 11",
+      "model_number": "11",
+      "price": "238,000원",
+      "product_id": 1758,
+      "url": "https://cueren.com/product/boston-11-loafer/1758/category/102/display/1/",
+      "image_url": "//cueren.com/web/product/small/202409/b6fb6351dae9e07cef0cb5c198160d29.jpg",
+      "sold_out": false,
+      "section": "MEN",
+      "color": "ESPRESSO"
+    },
+    {
+      "product_name": "BOSTON 03 MONK",
+      "model": "BOSTON 03",
+      "model_number": "03",
+      "price": "245,000원",
+      "product_id": 1772,
+      "url": "https://cueren.com/product/boston-03-monk/1772/category/102/display/1/",
+      "image_url": "//cueren.com/web/product/small/202409/619993254c02a45fade4c1d7fa42f0d1.jpg",
+      "sold_out": false,
+      "section": "MEN",
+      "color": "BRUSH OFF WINE"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+# Environment variables (may contain Vercel KV credentials)
+.env
+.env.local
+.env.development
+.env.production
+.env.development.local
+.env.production.local
+.env.*.local
+
+# Vercel (contains auth tokens and project secrets)
+.vercel/
+
+# Node.js dependencies
+node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
