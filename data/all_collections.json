@@ -3143,7 +3143,7 @@
     "collection": "MILANO",
     "cate_no": 258,
     "url": "https://cueren.com/product/project.html?cate_no=258&type=MILANO",
-    "total_products": 23,
+    "total_products": 21,
     "products": [
       {
         "product_name": "MILANO 14 PUMPS",
@@ -3336,30 +3336,6 @@
         "sold_out": false,
         "section": "WOMEN",
         "color": "BLACK"
-      },
-      {
-        "product_name": "MILANO 03 MULE",
-        "model": "MILANO 03",
-        "model_number": "03",
-        "price": "218,000원",
-        "product_id": 1479,
-        "url": "https://cueren.com/product/milano-03-mule/1479/category/258/display/1/",
-        "image_url": "//cueren.com/web/product/small/202405/e7d58633f12a326986151514da04442e.jpg",
-        "sold_out": false,
-        "section": "WOMEN",
-        "color": "WHITE (CR)"
-      },
-      {
-        "product_name": "MILANO 03 MULE",
-        "model": "MILANO 03",
-        "model_number": "03",
-        "price": "218,000원",
-        "product_id": 1482,
-        "url": "https://cueren.com/product/milano-03-mule/1482/category/258/display/1/",
-        "image_url": "//cueren.com/web/product/small/202405/d6a5707231213e871a5245e6d5bcd208.jpg",
-        "sold_out": false,
-        "section": "WOMEN",
-        "color": "BLACK (CR)"
       },
       {
         "product_name": "MILANO 04 MULE",
